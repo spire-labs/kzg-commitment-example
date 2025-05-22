@@ -1,0 +1,8 @@
+[package]
+name = "kzg-commitment-example"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+alloy = { version = "0.12", features = ["full"] }
+eyre = "0.6"
